@@ -244,4 +244,4 @@ This repository serves as the official landing page for BuddyPress. The software
 **Get the most recent version of BuddyPress today!**
 
 ---
-**Last updated:** 2026-09-13 22:48:51 UTC
+**Last updated:** 2026-09-14 00:38:36 UTC
